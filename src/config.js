@@ -2,7 +2,7 @@
 
 module.exports = {
   token:
-    "MTM5OTE4Njk2Nzk2NjUxOTMyNg.GLDefb.-o",
+    "token",
   clientId: "1399186967966519326",
   prefix: ">",
   ownerID: "870179991462236170",

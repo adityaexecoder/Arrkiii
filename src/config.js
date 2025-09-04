@@ -11,7 +11,7 @@ module.exports = {
   mongourl:
     "mongodb+srv://codex-in2:codex-in2@codex-in2.gjv2c.mongodb.net/?retryWrites=true&w=majority",
   embedColor: "#2f3136",
-  logs: "https://discord.com/api/webhooks/1399187361694482462/--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+  logs: "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
   node_source: "ytsearch",
   topgg:
     "here",
@@ -28,16 +28,16 @@ module.exports = {
     topgg: "https://top.gg/bot/1033496708992204840/vote",
   },
   Webhooks: {
-      black: "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      black: "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
     player_create:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
     player_delete:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
     guild_join:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
-      guild_leave: "https://discord.com/api/webhooks//MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
+      guild_leave: "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
     cmdrun:
- "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+ "https://discord.com/api/webhooks/1413195986758664364/JERCg-dD3MlIK7XKnh5cG4USmaWYppxxAh-RmPJzPeThfBWavp0vrl99a5w0CG7OOXjN",
   },
 
   nodes: [

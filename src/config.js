@@ -3,9 +3,9 @@
 module.exports = {
   token:
     "token",
-  clientId: "1399186967966519326",
-  prefix: ">",
-  ownerID: "870179991462236170",
+  clientId: "1410605849864441856",
+  prefix: ";",
+  ownerID: "928931552132468747",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
@@ -19,7 +19,7 @@ module.exports = {
     BG: "https://cdn.discordapp.com/attachments/1061636453437804544/1186002755924525166/20231217_232106.jpg",
     support: "https://discord.gg/urV9mkfW9t",
     invite:
-      "https://discord.com/api/oauth2/authorize?client_id=1399186967966519326&permissions=824671333721&scope=bot",
+      "https://discord.com/api/oauth2/authorize?client_id=1410605849864441856&permissions=824671333721&scope=bot",
     arrkiii:
       "https://cdn.discordapp.com/attachments/1187323477032697867/1236626903847407696/Arrkiii.gif",
     power: "Powered By Arrkiii Development 🌙",
